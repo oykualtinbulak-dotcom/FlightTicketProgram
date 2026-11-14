@@ -1,0 +1,15 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\bin\Debug\net10.0\FlightTicketProgram.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\bin\Debug\net10.0\FlightTicketProgram.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\bin\Debug\net10.0\FlightTicketProgram.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\bin\Debug\net10.0\FlightTicketProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\bin\Debug\net10.0\FlightTicketProgram.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\refint\FlightTicketProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTicketProgram.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\ref\FlightTicketProgram.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\FlightTicketProgram\obj\Debug\net10.0\FlightTi.CF4C8745.Up2Date
